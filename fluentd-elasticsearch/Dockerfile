@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/fluentd-elasticsearch:2.2.0
+FROM k8s.gcr.io/fluentd-elasticsearch:v2.1.0
 MAINTAINER bckun@qq.com
